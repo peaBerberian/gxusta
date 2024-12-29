@@ -1,0 +1,15 @@
+{
+  "name": "ĝusta",
+  "version": "0.1.0",
+  "description": "A JS testing framework prototype",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "lib/index.mjs",
+  "scripts": {
+    "test": "node tests/index.mjs"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
+}
